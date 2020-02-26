@@ -7,3 +7,7 @@
 1. ```yarn```
 2. ```cd ios && pod install```
 3. ```react-native run-ios```
+
+#### Login details
+Email: eve.holt@reqres.in
+Password: cityslicka
